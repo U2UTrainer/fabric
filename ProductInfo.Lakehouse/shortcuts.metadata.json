@@ -1,0 +1,14 @@
+[
+  {
+    "name": "product",
+    "path": "/Tables",
+    "target": {
+      "type": "OneLake",
+      "oneLake": {
+        "path": "Tables/product",
+        "itemId": "07769473-7dd6-47c6-98a3-44f03464a810",
+        "workspaceId": "b1b153c0-34b7-4649-b6fa-3ccbca96a9b8"
+      }
+    }
+  }
+]
